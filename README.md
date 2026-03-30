@@ -1,15 +1,14 @@
 # PROY-2026-GRUPOX
 
-Repositorio del grupo X para el proyecto del ramo *Proyecto Inicial (IWG400)* – 2026.
+Repositorio del grupo 2 para el proyecto del ramo *Proyecto Inicial (IWG400)* – 2026.
 
 ## 👥 Integrantes del grupo
 
 | Nombre y Apellido | Usuario GitHub | Correo USM               | Rol USM      |
 | ----------------- | -------------- | ------------------------ | ------------ |
-| Nombre1 Apellido1 | @usuario1      | nombre1.apellido1@usm.cl | 200000000000 |
-| Nombre2 Apellido2 | @usuario2      | nombre2.apellido2@usm.cl | 200000000000 |
-| Nombre3 Apellido3 | @usuario3      | nombre3.apellido3@usm.cl | 200000000000 |
-| Nombre4 Apellido4 | @usuario4      | nombre4.apellido4@usm.cl | 200000000000 |
+| Andrés Vásquez    | @AndresVasq2005| avasquezf@usm.cl         | 202630027-7  |
+| Javier Alvarez    | @TheShrike253  | jalvaresp@usm.cl         | 202630036-6  |
+| Julian Landeros   | @ChleJulian    | jlanderos@usm.cl         | 202630024-2  |
 
 ## 📝 Descripción breve del proyecto
 
