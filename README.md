@@ -1,4 +1,4 @@
-# PROY-2026-GRUPOX
+# PROY-2026-GRUPO 2
 
 Repositorio del grupo 2 para el proyecto del ramo *Proyecto Inicial (IWG400)* – 2026.
 
