@@ -12,7 +12,8 @@ Repositorio del grupo 2 para el proyecto del ramo *Proyecto Inicial (IWG400)* �
 
 ## 📝 Descripción breve del proyecto
 
-> *Aquí va una descripción general del proyecto, incluyendo su propósito, contexto dentro del curso y motivación.*
+> descripción ofcicial [Mini tesla es un auto a control remoto con integracion de ia unico en la placa de desarrollo "Arduino UNO Q"]
+> concepto pendiente de revisión (Este es un "juguete" seguro para niños y el bolsillo, ya que tanto su diseño como sus sensores permiten el uso en infantes con neurodivergencias los cuales tiendan a destruir sus juguetes, Asi aportando al mundo con un poco de ayuda a la diversidad infantil)
 
 ---
 
