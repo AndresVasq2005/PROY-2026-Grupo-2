@@ -73,7 +73,7 @@ Repositorio del grupo 2 para el proyecto del ramo *Proyecto Inicial (IWG400)* â€
 
 ## ðŸ“… Cronograma de trabajo
 
-[Carta Gantt]((https://usmcl-my.sharepoint.com/:x:/r/personal/jalvarezp_usm_cl/Documents/Carta%20gantt%20editada.xlsx?d=w62360be1ce6241b5a0af8534450cbacc&csf=1&web=1&e=oKIsLb))
+[Carta Gantt](https://usmcl-my.sharepoint.com/:x:/r/personal/jalvarezp_usm_cl/Documents/Carta%20gantt%20editada.xlsx?d=w62360be1ce6241b5a0af8534450cbacc&csf=1&web=1&e=oKIsLb)
 
 ---
 
