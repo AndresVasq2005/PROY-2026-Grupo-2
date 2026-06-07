@@ -6,7 +6,7 @@ Repositorio del grupo 2 para el proyecto del ramo *Proyecto Inicial (IWG400)* �
 
 | Nombre y Apellido | Usuario GitHub | Correo USM               | Rol USM      |
 | ----------------- | -------------- | ------------------------ | ------------ |
-| Andrés Vásquez    | @AndresVasq2005| avasquezf@usm.cl         | 202630027-7  |
+| Andrés Vásquez    | @guyuu         | avasquezf@usm.cl         | 202630027-7  |
 | Javier Alvarez    | @TheShrike253  | jalvaresp@usm.cl         | 202630036-6  |
 | Julian Landeros   | @ChleJulian    | jlanderos@usm.cl         | 202630024-2  |
 
