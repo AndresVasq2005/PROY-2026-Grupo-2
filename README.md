@@ -34,7 +34,7 @@ Repositorio del grupo 2 para el proyecto del ramo *Proyecto Inicial (IWG400)* �
 ## 🛠️ Tecnologías y herramientas utilizadas
 
 - Lenguaje(s) de programación:
-  - Ej: Python, JavaScript, C++
+  - Python, JavaScript, C++ y HTML
 - Microcontroladores
   - Arduino UNO Q, ESP32
 - Sensores
@@ -44,12 +44,10 @@ Repositorio del grupo 2 para el proyecto del ramo *Proyecto Inicial (IWG400)* �
 ## 🗂️ Estructura del repositorio
 
 ```
-/PROY-2026-GRUPOX
+/PROY-2026-GRUPO-2
 │
-├── docs/               # Documentación general y reportes
-├── src/                # Código fuente del proyecto
-├── tests/              # Casos de prueba
-├── assets/             # Imágenes, diagramas, etc.
+├── Docs/               # Documentación general y reportes
+├── Test-projects/      # Casos de prueba
 └── README.md           # Este archivo
 ```
 
