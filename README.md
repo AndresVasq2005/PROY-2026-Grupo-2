@@ -48,6 +48,8 @@ Repositorio del grupo 2 para el proyecto del ramo *Proyecto Inicial (IWG400)* â€
   - L298n Mini
 - Sensores
   - Sensor hc-sr04
+-Motores
+ -2 Motores DC
 
 ---
 
