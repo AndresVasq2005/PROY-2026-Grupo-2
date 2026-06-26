@@ -79,7 +79,7 @@ El sistema resuelve todos los requerimientos de forma automática, por lo que no
 ---
 
 ## 📐 Diseño del Sistema
-![Diagrama de Conexiones](./assets/diagrama_conexiones.png)
+![Diagrama de Conexiones](./assets/Cables.jpeg)
 
 *Explicacion grafica de como es la conexion entre el microcontrolador y los sensores*
 
