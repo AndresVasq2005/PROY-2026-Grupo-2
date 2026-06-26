@@ -93,8 +93,8 @@ El sistema resuelve todos los requerimientos de forma automática, por lo que no
 
 ## 📚 Bibliografía
 
-[programacion] .(https://docs.arduino.cc/programming/).
-.[software] .(https://docs.arduino.cc/software/).
+[programacion](https://docs.arduino.cc/programming/)
+[software](https://docs.arduino.cc/software/)
 
 ---
 
