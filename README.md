@@ -45,7 +45,9 @@ Repositorio del grupo 2 para el proyecto del ramo *Proyecto Inicial (IWG400)* �
   - Python, JavaScript, C++ y HTML
 - Microcontroladores
   - Arduino UNO Q, ESP32
+  - L298n Mini
 - Sensores
+  - Sensor hc-sr04
 
 ---
 
@@ -64,9 +66,13 @@ Repositorio del grupo 2 para el proyecto del ramo *Proyecto Inicial (IWG400)* �
 ## 🚀 Instrucciones de Instalacion y Uso
 
 
-1. **Clonar el repositorio:** `git clone ...`
-2. **Dependencias:** Listar qué librerías necesitan (ej: `pip install -r requirements.txt` o librerías de Arduino).
-3. **Ejecución:** Cómo se corre el código principal.
+1. Carga del proyecto
+No es necesario utilizar comandos en la terminal para clonar el proyecto. Debe abrir la carpeta principal, denominada Mini-tesla-final/, directamente en App Lab.
+
+2. Gestión de dependencias
+El sistema resuelve todos los requerimientos de forma automática, por lo que no requiere instalaciones manuales.
+
+3. Ejecución: Se ejecuta presionando el botón de "Run"/"Iniciar" dentro de App Lab, que compila el sketch, lo sube al microcontrolador, y arranca la app Python en el lado Linux de la placa al mismo tiempo. Cuando arranca bien, App Lab muestra un banner con la IP local de la placa (ej. http://192.168.x.x:7000) — esa es la URL que abres desde el celular/PC, en la misma red WiFi.
 
 ---
 
