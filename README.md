@@ -19,15 +19,23 @@ Repositorio del grupo 2 para el proyecto del ramo *Proyecto Inicial (IWG400)* �
 ## 🎯 Objetivos
 
 - Objetivo general:
-  - *Describir el objetivo principal del proyecto.*
+  - *Desarrollar un vehículo robótico controlado remotamente desde una página web HTML, utilizando Arduino UNO Q y comunicación a través de una red Wi-Fi local.*
+
 - Objetivos específicos:
-  - *Listar objetivos concretos que permitirán alcanzar el objetivo general.*
+  - *Diseñar y ensamblar el chasis y los componentes electrónicos del vehículo sobre Arduino UNO Q.*
+  - *Crear una interfaz web en HTML que permita al usuario controlar el vehículo de forma intuitiva.*
+  - *Establecer una comunicación estable entre el vehículo y la página web dentro de la misma red Wi-Fi.*
+  - *Implementar los movimientos básicos del vehículo: avance, retroceso y giros a izquierda y derecha.*
+  - *Ejecutar pruebas de funcionamiento para validar la estabilidad de la conexión y la respuesta del control remoto.*
+  - *Explorar la integración de un modelo de inteligencia artificial (LLM) para el reconocimiento de paredes, documentando los avances y resultados obtenidos.*
 
 ---
 
 ## 🧩 Alcance del proyecto
 
-> *Definir qué aspectos cubre el proyecto y qué queda fuera del alcance (limitaciones).*
+> El proyecto abarca el diseño físico del vehículo, el desarrollo del sistema de control remoto vía web y las pruebas de funcionamiento del conjunto. Ambos dispositivos —el vehículo y el navegador— deben encontrarse conectados a la misma red Wi-Fi para que el sistema opere correctamente.
+>
+> Quedan fuera del alcance la navegación autónoma y el reconocimiento inteligente de obstáculos. Si bien se investigó la posibilidad de integrar un LLM para la detección de paredes, se determinó que su implementación resultaba innecesaria para los objetivos planteados, ya que el sistema de control remoto manual cubre de forma suficiente las necesidades del proyecto. Por esta razón, dicha funcionalidad se limita a una exploración documentada y no forma parte del producto final.
 
 ---
 
