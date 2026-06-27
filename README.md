@@ -58,9 +58,11 @@ Repositorio del grupo 2 para el proyecto del ramo *Proyecto Inicial (IWG400)* �
 ```
 /PROY-2026-GRUPO-2
 │
-├── Docs/               # Documentación general y reportes
-├── Test-projects/      # Casos de prueba
-└── README.md           # Este archivo
+├── Docs/                   # Documentación general y reportes
+├── Test-projects/          # Casos de prueba
+├── assets/                 # Imagenes
+├── Mini tesla final.zip    # Achivo del programa
+└── README.md               # Este archivo
 ```
 
 ---
