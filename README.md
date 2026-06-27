@@ -71,7 +71,7 @@ Repositorio del grupo 2 para el proyecto del ramo *Proyecto Inicial (IWG400)* �
 
 
 1. Carga del proyecto
-No es necesario utilizar comandos en la terminal para clonar el proyecto. Debe abrir la carpeta principal, denominada Mini-tesla-final/, directamente en App Lab.
+No es necesario utilizar comandos en la terminal para clonar el proyecto. Debe abrir la carpeta principal, denominada Mini-tesla-final/, directamente en la Arduino App Lab.
 
 2. Gestión de dependencias
 El sistema resuelve todos los requerimientos de forma automática, por lo que no requiere instalaciones manuales.
