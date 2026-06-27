@@ -83,7 +83,6 @@ El sistema resuelve todos los requerimientos de forma automática, por lo que no
 ## 📐 Diseño del Sistema
 ![Diagrama de Conexiones](./assets/Cables.jpeg)
 
-*Explicacion grafica de como es la conexion entre el microcontrolador y los sensores*
 
 ---
 
@@ -100,7 +99,3 @@ El sistema resuelve todos los requerimientos de forma automática, por lo que no
 [Doc. propio](./Docs/guia-arduino-app-lab.pdf)
 
 ---
-
-## 📌 Notas adicionales
-
-> *Espacio para dejar cualquier comentario útil, como pendientes, acuerdos del grupo, consideraciones especiales, etc.*
